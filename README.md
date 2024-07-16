@@ -1,4 +1,4 @@
-# Hi there, I'm [Krishna Vamsi] 👋
+# Hi there, I'm Krishna Vamsi 👋
 
 ![Profile views](https://komarev.com/ghpvc/?username=yourusername&style=flat-square&color=blue) 
 
@@ -9,7 +9,7 @@ I'm a passionate software developer specializing in algorithm development and co
 - 🌱 I’m currently learning **[Full stack development]**
 - 💬 Ask me about **algorithms, data structures, and competitive programming**
 - 📫 How to reach me: **[vkrishna70015@gmail.com]**
-- ⚡ Fun fact: **[a fun fact about you]**
+
 
 ## 🚀 Skills
 
@@ -26,9 +26,8 @@ I'm a passionate software developer specializing in algorithm development and co
 
 ## 📫 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/yourusername/)
-- [Twitter](https://twitter.com/yourusername)
-- [Personal Website](https://yourwebsite.com)
+- [LinkedIn](https://www.linkedin.com/in/krishna-vamsi-74b32a237/)
+- [Leet Code](https://leetcode.com/u/krishnarock2470015/)
 
 ## 📚 Recent Blog Posts
 
@@ -41,13 +40,8 @@ I'm a passionate software developer specializing in algorithm development and co
 ## 🎯 LeetCode Stats
 
 - **Global Ranking:** 51,626 out of 559,284
-- **Contest Rating:** 1,756
 - **Problems Solved:** 315 (85 easy, 199 medium, 31 hard)
 
-## 🏆 Achievements
 
-- **[Achievement 1]**
-- **[Achievement 2]**
-- **[Achievement 3]**
 
 Thank you for visiting my profile! Feel free to reach out to me for any collaboration or just to say hi. 😊
