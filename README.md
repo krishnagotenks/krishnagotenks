@@ -1,4 +1,4 @@
-# Hi there, I'm Krishna Vamsi 👋
+# Hi there, I'm Krishna Vamsi 👋 <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/0*Yh-R1HjPJgLpPWHw" height="50" />
 
 ![Profile views](https://komarev.com/ghpvc/?username=yourusername&style=flat-square&color=blue) 
 
