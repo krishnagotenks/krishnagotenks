@@ -1,4 +1,4 @@
-# Hi there, I'm Krishna Vamsi 👋 <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9KifGIrw9SOkBZmAtb57GXp9vU5KLhLoKin_L9xbvQaWoja7OoVGY-QmAveQLae168iRmG1ZS_-IQs_dODp9sjMydBMn9GJGRWfrLYiuPhGfFAh1m_hyphenhyphen2joiyJg0Xbwx7OUqGkgpW2eM/s650/matrix-sushi-maxw-654.jpg" height="150" width="200 />
+# Hi there, I'm Krishna Vamsi 👋 <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9KifGIrw9SOkBZmAtb57GXp9vU5KLhLoKin_L9xbvQaWoja7OoVGY-QmAveQLae168iRmG1ZS_-IQs_dODp9sjMydBMn9GJGRWfrLYiuPhGfFAh1m_hyphenhyphen2joiyJg0Xbwx7OUqGkgpW2eM/s650/matrix-sushi-maxw-654.jpg" height="150" width="200" />
 
 ![Profile views](https://komarev.com/ghpvc/?username=yourusername&style=flat-square&color=blue) 
 
