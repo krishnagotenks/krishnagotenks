@@ -15,8 +15,7 @@ I'm a passionate software developer specializing in algorithm development and co
 
 - **Programming Languages:** C++, Python, Java, JavaScript, [others]
 - **Web Development:** HTML, CSS, JavaScript, React, Next.js
-- **Tools & Technologies:** Git, Docker, Kubernetes, CI/CD, AWS
-- **Competitive Programming:** LeetCode, Codeforces, HackerRank
+- **Competitive Programming:** LeetCode, Codeforces, HackerRank,codechef
 
 
 ## 📈 GitHub Stats
@@ -27,10 +26,10 @@ I'm a passionate software developer specializing in algorithm development and co
 <h2 align="center">Leetcode Info</h2>
 
 <p align="center">
-  <a href="https://leetcode.com/u/krishnarock2470015/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-02.gif" alt="jyot" height="200" width="200" /></a>
-  <a href="https://leetcode.com/u/krishnarock2470015/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-03.gif" alt="jyot" height="200" width="200" /></a>
-  <a href="https://leetcode.com/u/krishnarock2470015/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="jyot" height="200" width="200" /></a>
-  <a href="https://leetcode.com/u/krishnarock2470015/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="jyot" height="200" width="200" /></a>
+  <a href="https://leetcode.com/u/krishnarock2470015/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-100.gif" alt="jyot" height="200" width="200" /></a>
+  <a href="https://leetcode.com/u/krishnarock2470015/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-50.gif" alt="jyot" height="200" width="200" /></a>
+  <a href="https://leetcode.com/u/krishnarock2470015/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2023-50.gif" alt="jyot" height="200" width="200" /></a>
+  <a href="https://leetcode.com/u/krishnarock2470015/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2023-11.gif" alt="jyot" height="200" width="200" /></a>
 </p>
 
 <p align="center">
@@ -53,20 +52,7 @@ I'm a passionate software developer specializing in algorithm development and co
 ## 📫 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/krishna-vamsi-74b32a237/)
-- [Leet Code](https://leetcode.com/u/krishnarock2470015/)
 
-## 📚 Recent Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Title of Blog Post](https://yourblog.com/post1)
-- [Title of Blog Post](https://yourblog.com/post2)
-- [Title of Blog Post](https://yourblog.com/post3)
-<!-- BLOG-POST-LIST:END -->
-
-## 🎯 LeetCode Stats
-
-- **Global Ranking:** 51,626 out of 559,284
-- **Problems Solved:** 315 (85 easy, 199 medium, 31 hard)
 
 
 
