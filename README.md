@@ -1,8 +1,11 @@
-# Hi there, I'm Krishna Vamsi 👋 <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9KifGIrw9SOkBZmAtb57GXp9vU5KLhLoKin_L9xbvQaWoja7OoVGY-QmAveQLae168iRmG1ZS_-IQs_dODp9sjMydBMn9GJGRWfrLYiuPhGfFAh1m_hyphenhyphen2joiyJg0Xbwx7OUqGkgpW2eM/s650/matrix-sushi-maxw-654.jpg" height="150" width="200" />
+# Hi there, I'm Krishna Vamsi 👋 
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<p><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</p>
 
-![Profile views](https://komarev.com/ghpvc/?username=yourusername&style=flat-square&color=blue) 
+<a href="#" style="text-decoration: none; font-size: 24px; font-weight: bold;">👨‍💻 About Me</a>
 
-## 👨‍💻 About Me
+
 
 I'm a passionate software developer specializing in algorithm development and competitive programming. I'm constantly learning new technologies and improving my skills through various coding platforms and projects.
 
